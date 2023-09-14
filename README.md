@@ -1,7 +1,7 @@
-- 👋 I’m Crystal Lee
-- 👀 Master's candidate in MPA at Columbia
-- 🌱 I’m currently learning Python to use for academic research
-
+- 👩 I’m Crystal Lee
+- 🎓 Currently studying at SIPA Columbia Univ.
+- 🌱 Environmental Policy and Sustainability Management Concentration
+- 👩‍💻 Interested in learning about research methods using Python for Public Policy
 
 <!---
 hylee0228/hylee0228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
