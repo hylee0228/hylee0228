@@ -1,5 +1,5 @@
 - 👩 I’m Crystal Lee
-- 🎓 Currently studying at SIPA Columbia Univ.
+- 🎓 Currently studying at SIPA Columbia
 - 🌱 Environmental Policy and Sustainability Management Concentration
 - 👩‍💻 Learning research methods using Python for Public Policy
 
